@@ -1,0 +1,16 @@
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.exe
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.deps.json
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.runtimeconfig.json
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.runtimeconfig.dev.json
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.dll
+C:\Users\900215371\source\repos\SpApp\bin\Release\netcoreapp3.1\SpApp.pdb
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.csproj.AssemblyReference.cache
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.Form1.resources
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.csproj.GenerateResource.cache
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.AssemblyInfoInputs.cache
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.AssemblyInfo.cs
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.csproj.CoreCompileInputs.cache
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.dll
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.pdb
+C:\Users\900215371\source\repos\SpApp\obj\Release\netcoreapp3.1\SpApp.genruntimeconfig.cache

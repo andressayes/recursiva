@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGwkqDUQ6Z+3pgTTmME22ujGikzEILhQJ95x7Le/3nNxcu7cBiEbei5PsKH3wMFgztTpLeUz9ntU/J/MbZUdDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\900215371\\source\\repos\\SpApp\\SpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\900215371\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.25\\microsoft.netcore.app.runtime.win-x86.3.1.25.nupkg.sha512",
+    "C:\\Users\\900215371\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.25\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.25.nupkg.sha512",
+    "C:\\Users\\900215371\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.25\\microsoft.aspnetcore.app.runtime.win-x86.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
